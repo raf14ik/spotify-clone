@@ -1,3 +1,9 @@
+Import your api-spotify in :
+--------------------------------
+spotify.js => const clientId = "import-api-spotify";
+app.js => spotify.getPlaylist("import-api-spotify")...
+
+--------------------------------
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
